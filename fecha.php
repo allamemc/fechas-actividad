@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
             break;
         }
         case 2:
-        case 8:
+        case 88:
         case 15:
         {
             echo "<h2>No hay clase</h2>";
