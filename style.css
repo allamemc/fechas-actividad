@@ -1,0 +1,11 @@
+form{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+}
+h1,h2,h3{
+    text-align: center;
+}
